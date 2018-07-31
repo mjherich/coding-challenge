@@ -1,22 +1,40 @@
-Coding challenge or existing code?
-==================================
+Udemy Web App Coding Challenge
+==============================
 
-Existing code
--------------
+We got to know you and we liked talking to you! Unfortunately, we also need to understand how it is to be working with you, so we'd like to ask you to complete this relatively small project to help us understand how you approach problems and express your solutions. Please take this as an opportunity to express yourself rather than a test and try to enjoy it along the way!
 
-If you have existing code, please follow the following guidelines:
+Functional spec
+---------------
 
-* Include a link to the hosted repository (e.g. Github, Bitbucket...).
-* OR Include an archive with the code.
-* The code should include a README that follows the [principles described below](#readme) In particular, please make sure to include high-level explanation about what the code is doing.
-* Ideally, the code you're providing:
-  * Has been written by you alone. If not, please tell us which part you wrote and are most proud of in the README.
-  * Is leveraging web technologies.
+Please implement a quiz-taking system.
+
+* The system should be a web application.
+* The user should be able to take a quiz.
+* The quiz consists of one or more questions.
+* The quiz only has multiple-choice questions.
+* The app should tell the user how he did at the end of the quiz.
+
+What to do
+----------
+
+* Do make use of frameworks, libraries, plugins, anything that helps you build this. We use Django on the backend and React/MobX on the frontend, if you're looking for suggestions ;)
+* Do try to host the app somewhere that we can play with it.
+* Alternatively, do take a screencast of how it works, if you run it locally.
+* Do apply common sense to the scale of the app - quizzes can have tons of features, limit yourself to what you _need_.
+* Do have fun!
+
+What not to do
+--------------
+
+* Do not make use of an actual quiz library :)
+* Do not worry about creating an admin interface for quiz creation, feel free to define the quiz directly in the DB.
+* Do not worry about user authentication.
+* Don't forget to document your application!
 
 Documentation
 -------------
 
-Regardless of whether it's your own code or our coding challenge, write your README as if it was for a production service. Include the following items:
+Please write your README as if it was for a production service. Include the following items:
 
 * Description of the problem and solution.
 * Whether the solution focuses on back-end, front-end or if it's full stack.
@@ -38,36 +56,3 @@ The aspects of your code we will assess include:
 * **Code quality**: is the code simple, easy to understand, and maintainable?  Are there any code smells or other red flags? Is the coding style consistent with the language's guidelines? Is it consistent throughout the codebase?
 * **Testing**: do you have some unit and some integration tests?
 * **Technical choices**: do choices of libraries, databases, architecture etc. seem appropriate for the chosen application?
-
-Coding challenge
-----------------
-
-If you don't have code to share, you can work on the coding challenge described below.
-
-Functional spec
----------------
-
-Please implement a quiz-taking system.
-
-* The system should be a web application.
-* The user should be able to take a quiz.
-* The quiz consists of one or more questions.
-* The quiz only has multiple-choice questions.
-* The app should tell the user how he did at the end of the quiz.
-
-What to do
-----------
-
-* Do make use of frameworks, libraries, plugins, anything that helps you build this.
-* Do try to host the app somewhere that we can play with it.
-* Alternatively, do take a screencast of how it works, if you run it locally.
-* Do apply common sense to the scale of the app - quizzes can have tons of features, limit yourself to what you _need_.
-* Do have fun!
-
-What not to do
---------------
-
-* Do not make use of an actual quiz library :)
-* Do not worry about creating an admin interface for quiz creation, feel free to define the quiz directly in the DB.
-* Do not worry about user authentication.
-* Don't forget to document your application!
