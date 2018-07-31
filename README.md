@@ -1,7 +1,7 @@
 Udemy Web App Coding Challenge
 ==============================
 
-We got to know you and we liked talking to you! Unfortunately, we also need to understand how it is to be working with you, so we'd like to ask you to complete this relatively small project to help us understand how you approach problems and express your solutions. Please take this as an opportunity to express yourself rather than a test and try to enjoy it along the way!
+We got to know you and we really liked speaking with you! We also need to understand how it is to be working with you, so we'd like to ask you to complete this relatively small project to help us understand how you approach problems and express your solutions. Please take this as an opportunity to express yourself rather than a test and try to enjoy it along the way!
 
 Functional spec
 ---------------
