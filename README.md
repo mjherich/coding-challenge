@@ -17,7 +17,7 @@ Please implement a quiz-taking system.
 What to do
 ----------
 
-* Do make use of frameworks, libraries, plugins, anything that helps you build this. We use Django on the backend and React/MobX on the frontend, if you're looking for suggestions ;)
+* Do make use of frameworks, libraries, plugins, anything that helps you build this. We use Django on the backend and React/MobX on the frontend, if you're looking for ideas ;)
 * Do try to host the app somewhere that we can play with it.
 * Alternatively, do take a screencast of how it works, if you run it locally.
 * Do apply common sense to the scale of the app - quizzes can have tons of features, limit yourself to what you _need_.
