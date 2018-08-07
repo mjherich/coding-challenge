@@ -8,8 +8,9 @@ Functional spec
 
 Please implement a quiz-taking system.
 
-* The system should be a web application.
-* The user should be able to take a quiz.
+* The system should be a full-stack web application.
+  * It should have a backend API to get the questions.
+  * And a frontend UI to answer them.
 * The quiz consists of one or more questions.
 * The quiz only has multiple-choice questions.
 * The app should tell the user how he did at the end of the quiz.
