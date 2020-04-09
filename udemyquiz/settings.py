@@ -50,6 +50,7 @@ INSTALLED_APPS = [
     'rest_auth.registration',
 ]
 
+ACCOUNT_EMAIL_VERIFICATION = 'none'
 SITE_ID = 1
 
 MIDDLEWARE = [
